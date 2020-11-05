@@ -1,0 +1,4 @@
+PyMouse==1.0
+python-xlib==0.28
+PyUserInput==0.1.11
+six==1.15.0
